@@ -14,13 +14,13 @@
 
 ### 👋 About me
 
-I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the web since **2013**. For the last several years I've been at **Accenture**, building large-scale applications for enterprise clients — from Angular platforms to modern React and Next.js products.
+Senior front-end engineer with **12+ years** of experience building for the web — from public-sector systems in Alagoas to large-scale enterprise products at **Accenture**. I care about fast, accessible interfaces and codebases that teams enjoy working in.
 
-- 🎯 Focus on front-end architecture, performance (Core Web Vitals, SSR/SSG) and accessibility
-- 🧩 State management with Redux and Zustand, mobile-first and responsive design
-- 🤖 AI-assisted development with GitHub Copilot and Claude in my daily workflow
-- 👨‍🏫 Mentor junior developers and teach computer hardware & maintenance
-- 💡 Side projects: management systems for community organizations (pharmacy, library, elderly care)
+- ⚛️ Day to day: React, Next.js and TypeScript, plus Angular (v9+) on long-running platforms
+- 🏗️ Component-driven architecture and state management with Redux and Zustand
+- ⚡ Performance and SEO: Core Web Vitals, SSR/SSG and analytics
+- 🤖 AI-assisted development with GitHub Copilot and Claude
+- 🤝 Mentoring developers and sharing knowledge across teams
 
 ### 🛠️ Tech stack
 
