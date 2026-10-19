@@ -37,7 +37,6 @@ I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the
 | Project | What it does | Stack |
 |---|---|---|
 | 📚 [nl-library-app](https://github.com/tonino00/nl-library-app) | Library management: catalog, loans and members | React, TypeScript |
-| 🎫 [nl-it-call-api](https://github.com/tonino00/nl-it-call-api) | IT support ticket API with JWT auth and role-based access | Node.js, Express, MongoDB |
 
 <details>
 <summary><b>🔒 Private projects</b></summary>
@@ -47,6 +46,8 @@ I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the
 |---|---|---|
 | 🏡 Lar Digital (web, mobile & API) | Management platform for an elderly care home: residents, staff and daily operations | React, React Native, TypeScript, Node.js |
 | 📚 NL Library API | Back-end for the library management system | Node.js, Express |
+| 💊 NL Drugstore (web) | Community pharmacy front-end with barcode scanning and real-time notifications | React, TypeScript, Vite |
+| 🎫 NL IT Call API | IT support ticket API with JWT auth and role-based access | Node.js, Express, MongoDB |
 
 </details>
 
