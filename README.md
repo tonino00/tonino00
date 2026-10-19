@@ -32,18 +32,6 @@ I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the
   </a>
 </p>
 
-### 🚀 Projects
-
-Management systems built for community organizations. Repositories are private — happy to walk through the code on request.
-
-| Project | What it does | Stack |
-|---|---|---|
-| 💊 NL Drugstore | Community pharmacy management with barcode scanning and real-time notifications (SSE) | React, TypeScript, Node.js, Express, PostgreSQL |
-| 📚 NL Library | Library management: catalog, loans and members | React, TypeScript, Node.js, Express |
-| 🎫 NL IT Call | IT support tickets with JWT auth and role-based access | Node.js, Express, MongoDB |
-| 🎓 NL Admin Courses | Admin dashboard for course management | React, TypeScript |
-| 🏡 Lar Digital | Platform for an elderly care home: residents, staff and daily operations (web, mobile & API) | React, React Native, TypeScript, Node.js |
-
 ### 🧭 Journey
 
 ```text
