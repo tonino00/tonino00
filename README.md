@@ -20,7 +20,7 @@ I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the
 - 🧩 State management with Redux and Zustand, mobile-first and responsive design
 - 🤖 AI-assisted development with GitHub Copilot and Claude in my daily workflow
 - 👨‍🏫 Mentor junior developers and teach computer hardware & maintenance
-- 💡 Side projects: open-source management systems for community organizations (pharmacy, library, elderly care)
+- 💡 Side projects: management systems for community organizations (pharmacy, library, elderly care)
 
 ### 🛠️ Tech stack
 
@@ -32,24 +32,17 @@ I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the
   </a>
 </p>
 
-### 🚀 Featured projects
+### 🚀 Projects
+
+Management systems built for community organizations. Repositories are private — happy to walk through the code on request.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📚 [nl-library-app](https://github.com/tonino00/nl-library-app) | Library management: catalog, loans and members | React, TypeScript |
-
-<details>
-<summary><b>🔒 Private projects</b></summary>
-<br/>
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🏡 Lar Digital (web, mobile & API) | Management platform for an elderly care home: residents, staff and daily operations | React, React Native, TypeScript, Node.js |
-| 📚 NL Library API | Back-end for the library management system | Node.js, Express |
-| 💊 NL Drugstore (web) | Community pharmacy front-end with barcode scanning and real-time notifications | React, TypeScript, Vite |
-| 🎫 NL IT Call API | IT support ticket API with JWT auth and role-based access | Node.js, Express, MongoDB |
-
-</details>
+| 💊 NL Drugstore | Community pharmacy management with barcode scanning and real-time notifications (SSE) | React, TypeScript, Node.js, Express, PostgreSQL |
+| 📚 NL Library | Library management: catalog, loans and members | React, TypeScript, Node.js, Express |
+| 🎫 NL IT Call | IT support tickets with JWT auth and role-based access | Node.js, Express, MongoDB |
+| 🎓 NL Admin Courses | Admin dashboard for course management | React, TypeScript |
+| 🏡 Lar Digital | Platform for an elderly care home: residents, staff and daily operations (web, mobile & API) | React, React Native, TypeScript, Node.js |
 
 ### 🧭 Journey
 
