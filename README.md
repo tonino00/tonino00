@@ -47,7 +47,7 @@ Management systems built for community organizations. Repositories are private �
 ### 🧭 Journey
 
 ```text
-2023  ▸ Software Engineering Consultant · Accenture
+2023  ▸ Senior Software Engineer (Consultant) · Accenture
 2018  ▸ Front-end Developer (Mid → Senior) · Accenture
 2017  ▸ Front-end Developer · Mam.bo
 2014  ▸ Front-end Developer · Public sector & energy (SEPLAG/AL, Eletrobras AL)
@@ -67,10 +67,5 @@ Management systems built for community organizations. Repositories are private �
 
 </details>
 
-### 📊 Most used languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonino00&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt=""/>
