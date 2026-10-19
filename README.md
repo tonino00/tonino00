@@ -55,15 +55,11 @@ Management systems built for community organizations. Repositories are private �
 ```
 
 <details>
-<summary><b>🎓 Education, certifications & awards</b></summary>
+<summary><b>🎓 Education</b></summary>
 <br/>
 
 - 🎓 **Postgraduate in Software Engineering** — Centro Universitário CESMAC
 - 🎓 **Technologist in Systems Analysis and Development** — UNCISAL
-- 📜 DevOps Essentials Professional · Scrum Foundation Professional — CertiProf
-- 🏆 **1st place** — Dev Alley 2016
-- 🥉 **3rd place** — Shawee Hackathon (XP Investimentos) 2019
-- 🏅 **6th place** — Shawee Hackathon (Total Voice API) 2019
 
 </details>
 
