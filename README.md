@@ -36,11 +36,8 @@ I'm a front-end engineer from **Maceió, Brazil** 🇧🇷, writing code for the
 
 | Project | What it does | Stack |
 |---|---|---|
-| 💊 [nl-drugstore-app](https://github.com/tonino00/nl-drugstore-app) · [api](https://github.com/tonino00/nl-drugstore-api) | Community pharmacy management with barcode scanning and real-time notifications (SSE) | React, TypeScript, Node.js, Express, PostgreSQL |
 | 📚 [nl-library-app](https://github.com/tonino00/nl-library-app) | Library management: catalog, loans and members | React, TypeScript |
 | 🎫 [nl-it-call-api](https://github.com/tonino00/nl-it-call-api) | IT support ticket API with JWT auth and role-based access | Node.js, Express, MongoDB |
-| 🎓 [nl-admin-courses](https://github.com/tonino00/nl-admin-courses) | Admin dashboard for course management | React, TypeScript |
-| ✈️ [airlines-app](https://github.com/tonino00/airlines-app) | Airline and fleet management UI on top of a legacy REST API | React, Vite |
 
 <details>
 <summary><b>🔒 Private projects</b></summary>
